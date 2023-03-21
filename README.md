@@ -1,4 +1,4 @@
-#Fiverr-Clone - This is an effort to try and emulate the famous freelance online market -> FIVERR.
+#Liverr is a Fiverr Clone - This is an effort to try and emulate the famous freelance online market -> FIVERR.
 
 User stories and app features as listed below:
 
